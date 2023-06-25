@@ -30,9 +30,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  camera:
-  path_provider:
-  path:
   image_picker: ^0.8.2
 
 
